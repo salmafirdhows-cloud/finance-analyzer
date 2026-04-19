@@ -16,26 +16,8 @@ generates spending insights using a FastAPI backend.
 
 ---
 
-##  Project Structure
-# finance-analyzer
-bank-analyzer/
-├── backend/
-│   ├── main.py
-│   ├── routers/
-│   │   └── statement.py
-│   ├── services/
-│   │   ├── parser.py
-│   │   └── analyzer.py
-│   ├── models/
-│   │   └── transaction.py
-│   ├── requirements.txt
-│   └── __init__.py   (recommended)
-│
-├── frontend/
-│   └── (React app - later)
-│
-└── README.md
----
+
+
 
 ##  Tech Stack
 
@@ -72,15 +54,6 @@ Server runs at:
 http://127.0.0.1:8000
 
 ---
-
-
-
-wq
-:wq
-
-
-^X
-^X
 
 
 
