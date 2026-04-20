@@ -27,10 +27,10 @@ generates spending insights using a FastAPI backend.
 - Pandas
 - PDFPlumber (for PDF parsing)
 
-### Frontend (Upcoming)
+### Frontend 
 - React.js
 - Axios
-- Tailwind CSS (optional)
+
 
 ---
 
